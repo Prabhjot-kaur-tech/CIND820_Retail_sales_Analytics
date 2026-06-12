@@ -1,1 +1,1 @@
-# CIND820_Retail_sales_Analytics
+# CIND820_Retail Sales Analytics and Customer Purchasing Behaviour Analysis
