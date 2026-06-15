@@ -1,6 +1,6 @@
 ## EDA Outputs
 
-- [Revenue Distribution](images/01_revenue_distribution.png)
+- [Revenue Distribution](https://github.com/Prabhjot-kaur-tech/CIND820_Retail_sales_Analytics/blob/main/images/01_revenue_distribution.png)
 - [Monthly Revenue Trend](images/02_monthly_revenue_trend.png)
 - [Top 10 Countries by Revenue](images/03_top_10_countries_revenue.png)
 - [Top 10 Products by Revenue](images/04_top_10_products_revenue.png)
