@@ -105,10 +105,10 @@ Business Recommendations
 
 The project notebooks should be executed in the following order:
 
-1. **01_Initial_EDA.ipynb** – Initial exploratory data analysis.
-2. **02_Business_EDA_&_Analysis.ipynb** – Business-focused exploratory analysis and descriptive analytics.
-3. **02_Data_Cleaning_&_Preperation** - Clean raw dataset and prepare new cleaned data file for analysis.
-4. **03_Initial_Result_RFM** -Analysis using RFM .
+1. **_Data_Cleaning_&_Preperation** - Clean raw dataset and prepare new cleaned data file for analysis.
+2. **01_Initial_EDA.ipynb** – Initial exploratory data analysis.
+3. **02_Business_EDA_&_Analysis.ipynb** – Business-focused exploratory analysis and descriptive analytics.
+4.**03_Initial_Result_RFM** -Analysis using RFM .
 5. **04_Milestone4_Final_Results_RFM_Baseline_Analysis.ipynb** – Revenue baseline analysis and rule-based RFM segmentation.
 6. **04_Milestone4_K_Means_Comparison.ipynb** – K-Means clustering, model evaluation, and comparison.
    
